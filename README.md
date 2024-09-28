@@ -1,6 +1,6 @@
-# Natours Backend
+# Natours Project
 
-Natours Backend is a web application developed using Node.js, Express.js, and MongoDB. This project demonstrates the application of concepts learned in Jonas Schmedtmann's Node.js course, including server-side development with Node.js. Natours provides a backend system for managing and viewing various nature tours.
+Natours is a web application developed using Node.js, Express.js, and MongoDB. This project demonstrates the application of concepts learned in Jonas Schmedtmann's Node.js course, including server-side development with Node.js. Natours provides a backend system for managing and viewing various nature tours.
 
 ## Course Information
 
